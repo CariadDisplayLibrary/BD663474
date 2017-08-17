@@ -1,0 +1,19 @@
+Source: bd663474
+Section: libraries
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libdisplaycore-driver-bd663474
+Section: libraries
+Architecture: all
+XBSC-Group: DisplayCore
+XBSC-Subgroup: Drivers
+Depends: libdspi-chipkit, libdisplaycore-core
+Provides: BD663474.h
+Description: BD663474 driver for DisplayCore
+ The BD663474 is used by the WaveShare LCD22 TFT.
+
+
+
