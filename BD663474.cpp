@@ -192,8 +192,8 @@ void BD663474::fillRectangle(int x, int y, int w, int h, color_t color) {
 		h = _height - y;
 
 	setAddrWindow(x, y, x+w-1, y+h-1);
-	for(uint32_t y = 0; y < h; y++) {
-        for(uint32_t x = 0; x < w; x++) {
+	for(int y = 0; y < h; y++) {
+        for(int x = 0; x < w; x++) {
             data(color);
 		}
 	}
@@ -265,7 +265,7 @@ void BD663474::setRotation(int m) {
 
 }
 
-void BD663474::invertDisplay(boolean i) {
+void BD663474::invertDisplay(boolean __attribute__((unused)) i) {
 //	_comm->writeCommand(i ? BD663474_INVON : BD663474_INVOFF);
 }
 
