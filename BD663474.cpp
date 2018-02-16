@@ -265,7 +265,7 @@ void BD663474::setRotation(int m) {
 
 }
 
-void BD663474::invertDisplay(boolean __attribute__((unused)) i) {
+void BD663474::invertDisplay(bool __attribute__((unused)) i) {
 //	_comm->writeCommand(i ? BD663474_INVON : BD663474_INVOFF);
 }
 

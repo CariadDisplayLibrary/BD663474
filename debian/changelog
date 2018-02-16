@@ -1,10 +1,28 @@
-bd663474 (2.0.1) uecide; urgency=low
+libdisplaycore-driver-bd663474 (2.0.4) uecide; urgency=low
+
+  * Fixed rotated offset problem
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Wed, 10 Jan 2018 12:41:18 +0000
+
+libdisplaycore-driver-bd663474 (2.0.3) uecide; urgency=low
+
+  * Fixed warnings
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Sat, 19 Aug 2017 16:52:23 +0100
+
+libdisplaycore-driver-bd663474 (2.0.2) uecide; urgency=low
+
+  * Added build files
+
+ -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:28:09 +0100
+
+libdisplaycore-driver-bd663474 (2.0.1) uecide; urgency=low
 
   * Adding build files
 
  -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:21:15 +0100
 
-bd663474 (2.0.0) uecide; urgency=low
+libdisplaycore-driver-bd663474 (2.0.0) uecide; urgency=low
 
   * Initial import
 
