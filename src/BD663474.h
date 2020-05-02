@@ -1,10 +1,10 @@
 #ifndef BD663474_H_
 #define BD663474_H_
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 #include <DSPI.h>
 
-class BD663474 : public DisplayCore {
+class BD663474 : public Cariad {
     private:
         DSPI *_dspi;
         uint8_t _pin_cs;

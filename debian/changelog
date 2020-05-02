@@ -1,52 +1,52 @@
-libdisplaycore-driver-bd663474 (2.0.8) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.8) uecide; urgency=low
 
   * New structure
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sun, 3 Jun 2018 16:41:38 +0100
 
-libdisplaycore-driver-bd663474 (2.0.7) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.7) uecide; urgency=low
 
   * Updated library.json
 
  -- Matt Jenkins <matt@majenko.co.uk>  Mon, 26 Feb 2018 20:36:09 +0000
 
-libdisplaycore-driver-bd663474 (2.0.6) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.6) uecide; urgency=low
 
   * Update git path
 
  -- Matt Jenkins <matt@majenko.co.uk>  Mon, 26 Feb 2018 20:21:44 +0000
 
-libdisplaycore-driver-bd663474 (2.0.5) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.5) uecide; urgency=low
 
   * Renamed boolean to bool
 
  -- Matt Jenkins <matt@majenko.co.uk>  Fri, 16 Feb 2018 19:58:59 +0000
 
-libdisplaycore-driver-bd663474 (2.0.4) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.4) uecide; urgency=low
 
   * Fixed rotated offset problem
 
  -- Matt Jenkins <matt@majenko.co.uk>  Wed, 10 Jan 2018 12:41:18 +0000
 
-libdisplaycore-driver-bd663474 (2.0.3) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.3) uecide; urgency=low
 
   * Fixed warnings
 
  -- Matt Jenkins <matt@majenko.co.uk>  Sat, 19 Aug 2017 16:52:23 +0100
 
-libdisplaycore-driver-bd663474 (2.0.2) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.2) uecide; urgency=low
 
   * Added build files
 
  -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:28:09 +0100
 
-libdisplaycore-driver-bd663474 (2.0.1) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.1) uecide; urgency=low
 
   * Adding build files
 
  -- Matt Jenkins <matt@majenko.co.uk>  Thu, 17 Aug 2017 16:21:15 +0100
 
-libdisplaycore-driver-bd663474 (2.0.0) uecide; urgency=low
+libcariad-driver-bd663474 (2.0.0) uecide; urgency=low
 
   * Initial import
 
